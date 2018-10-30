@@ -23,7 +23,7 @@ figcaption {
 
 
 #logo {
-  background: aqua;
+  background: blue;
 }
 
 
@@ -35,7 +35,7 @@ figcaption {
   font-family: 'Elsie Swash Caps', cursive;
 }
 
-/* Pseudo Selector */
+
 
 #details a:link #details a:visited {
   color: black;
